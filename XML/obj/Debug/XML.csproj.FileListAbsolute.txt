@@ -1,0 +1,8 @@
+C:\Code\XML\XML\bin\Debug\Resources\Menu.xml
+C:\Code\XML\XML\bin\Debug\XML.exe.config
+C:\Code\XML\XML\bin\Debug\XML.exe
+C:\Code\XML\XML\bin\Debug\XML.pdb
+C:\Code\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+C:\Code\XML\XML\obj\Debug\XML.exe
+C:\Code\XML\XML\obj\Debug\XML.pdb
+C:\Code\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
